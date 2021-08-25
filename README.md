@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @python-destroyer
+- 👀 I’m interested in python, C/C++ embedded
+- 🌱 I’m currently learning many stuff
+- 💞️ I’m looking to collaborate on tech projects
+- 📫 How to reach me -> syatsuk@protonmail.com or @python_destroyer in tg
